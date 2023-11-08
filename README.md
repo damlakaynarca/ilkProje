@@ -1,0 +1,2 @@
+# ilkProje
+uygulamanın kodları
